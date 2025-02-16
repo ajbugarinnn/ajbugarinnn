@@ -6,7 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-ajbugarinnn/ajbugarinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This Phyton program acts as a 30-word dictionary, storing word and definition pairs. I created this by only using Thonny, and a handout that was given to me by my professor.
